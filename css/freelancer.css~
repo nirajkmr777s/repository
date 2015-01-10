@@ -451,8 +451,8 @@ footer .footer-below {
 #f1_container {
   position: relative;
   margin: 10px auto;
-  width: 300px;
-  height: 215px;
+  width: 450px;
+  height: 281px;
   z-index: 1;
 }
 #f1_container {
