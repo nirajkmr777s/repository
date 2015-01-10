@@ -9,7 +9,7 @@
     <meta name="description" content="Niraj Kumar is Mobile Software Engineer(Backend & Frontend) at Robosoft Technologies. I love turning complex problems into simple solution.I am more into mobile app backend development along with frontend development.">
     <meta name="author" content="Niraj Kumar">
     <meta name="ROBOTS" content="INDEX, NOFOLLOW">
-	<link rel="icon" href="img/favicon.jpg" type="image/jpg" sizes="16x16">
+	<link rel="icon" href="img/favicon.jpg" type="image/jpg" sizes="24x24">
 
     <title>Niraj Kumar-Mobile Software Engineer</title>
 
@@ -66,6 +66,9 @@
                     </li>
                     <li class="page-scroll">
                         <a href="#contact">Contact</a>
+                    </li>
+		    <li class="page-scroll">
+                        <a href="http://codeflu.weebly.com/">Blog</a>
                     </li>
                 </ul>
             </div>
